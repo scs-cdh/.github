@@ -2,7 +2,7 @@
 
 Welcome to the Space Concordia CDH Team's GitHub profile! 🚀🛰️
 
-We are the software enthusiasts behind CubeSat missions, dedicated to crafting innovative flight software and ground station solutions. Currently, our focus is on the SC-FREYR CubeSat, while our past achievements include the successful launch of SC-ODIN in 2023.
+We are the software enthusiasts behind Space Concordia's CubeSat missions, dedicated to crafting innovative flight software and ground station solutions. Currently, our focus is on the SC-FREYR CubeSat, while our past achievements include the successful launch of SC-ODIN in 2023.
 
 ## Projects
 
